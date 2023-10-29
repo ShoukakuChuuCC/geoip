@@ -72,6 +72,14 @@
       "type": "text",
       "action": "add",
       "args": {
+        "name": "steam",
+        "uri": "https://raw.githubusercontent.com/ShoukakuChuuCC/geoip/master/steam.txt"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
         "inputDir": "./data"
       }
     },
@@ -109,7 +117,8 @@
           "google",
           "netflix",
           "telegram",
-          "twitter"
+          "twitter",
+          "steam"
         ]
       }
     },
@@ -136,7 +145,8 @@
           "google",
           "netflix",
           "telegram",
-          "twitter"
+          "twitter",
+          "steam"
         ]
       }
     },
@@ -161,7 +171,8 @@
           "google",
           "netflix",
           "telegram",
-          "twitter"
+          "twitter",
+          "steam"
         ]
       }
     },
